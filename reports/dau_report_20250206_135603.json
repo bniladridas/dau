@@ -1,0 +1,184 @@
+{
+  "dau_trend": [
+    {
+      "date": "2025-01-08",
+      "daily_active_users": 29
+    },
+    {
+      "date": "2025-01-09",
+      "daily_active_users": 21
+    },
+    {
+      "date": "2025-01-10",
+      "daily_active_users": 23
+    },
+    {
+      "date": "2025-01-11",
+      "daily_active_users": 20
+    },
+    {
+      "date": "2025-01-12",
+      "daily_active_users": 32
+    },
+    {
+      "date": "2025-01-13",
+      "daily_active_users": 34
+    },
+    {
+      "date": "2025-01-14",
+      "daily_active_users": 32
+    },
+    {
+      "date": "2025-01-15",
+      "daily_active_users": 27
+    },
+    {
+      "date": "2025-01-16",
+      "daily_active_users": 26
+    },
+    {
+      "date": "2025-01-17",
+      "daily_active_users": 31
+    },
+    {
+      "date": "2025-01-18",
+      "daily_active_users": 39
+    },
+    {
+      "date": "2025-01-19",
+      "daily_active_users": 25
+    },
+    {
+      "date": "2025-01-20",
+      "daily_active_users": 23
+    },
+    {
+      "date": "2025-01-21",
+      "daily_active_users": 22
+    },
+    {
+      "date": "2025-01-22",
+      "daily_active_users": 23
+    },
+    {
+      "date": "2025-01-23",
+      "daily_active_users": 31
+    },
+    {
+      "date": "2025-01-24",
+      "daily_active_users": 30
+    },
+    {
+      "date": "2025-01-25",
+      "daily_active_users": 27
+    },
+    {
+      "date": "2025-01-26",
+      "daily_active_users": 28
+    },
+    {
+      "date": "2025-01-27",
+      "daily_active_users": 30
+    },
+    {
+      "date": "2025-01-28",
+      "daily_active_users": 21
+    },
+    {
+      "date": "2025-01-29",
+      "daily_active_users": 35
+    },
+    {
+      "date": "2025-01-30",
+      "daily_active_users": 34
+    },
+    {
+      "date": "2025-01-31",
+      "daily_active_users": 32
+    },
+    {
+      "date": "2025-02-01",
+      "daily_active_users": 32
+    },
+    {
+      "date": "2025-02-02",
+      "daily_active_users": 23
+    },
+    {
+      "date": "2025-02-03",
+      "daily_active_users": 41
+    },
+    {
+      "date": "2025-02-04",
+      "daily_active_users": 24
+    },
+    {
+      "date": "2025-02-05",
+      "daily_active_users": 118
+    },
+    {
+      "date": "2025-02-06",
+      "daily_active_users": 120
+    }
+  ],
+  "activity_distribution": {
+    "add_to_cart": {
+      "unique_users": 172,
+      "total_activities": 183
+    },
+    "login": {
+      "unique_users": 189,
+      "total_activities": 203
+    },
+    "logout": {
+      "unique_users": 48,
+      "total_activities": 58
+    },
+    "purchase": {
+      "unique_users": 220,
+      "total_activities": 233
+    },
+    "share_content": {
+      "unique_users": 92,
+      "total_activities": 92
+    },
+    "update_profile": {
+      "unique_users": 142,
+      "total_activities": 142
+    },
+    "update_settings": {
+      "unique_users": 41,
+      "total_activities": 56
+    },
+    "view_content": {
+      "unique_users": 1,
+      "total_activities": 1
+    },
+    "view_product": {
+      "unique_users": 210,
+      "total_activities": 227
+    },
+    "view_profile": {
+      "unique_users": 43,
+      "total_activities": 59
+    }
+  },
+  "platform_performance": {
+    "desktop": {
+      "unique_users": 351,
+      "total_activities": 397,
+      "avg_metadata_size": 57.11586901763224
+    },
+    "mobile": {
+      "unique_users": 352,
+      "total_activities": 426,
+      "avg_metadata_size": 57.12676056338028
+    },
+    "web": {
+      "unique_users": 374,
+      "total_activities": 431,
+      "avg_metadata_size": 56.93967517401392
+    }
+  },
+  "report_generated_at": "2025-02-06T13:56:03.102594"
+}
